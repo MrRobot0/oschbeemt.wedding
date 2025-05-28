@@ -1,11 +1,7 @@
-# Obsidian Notes
+# 💍 Bruiloft van Wietze & Charlotte
 
-Publish your public notes with MkDocs
+Welkom op onze bruiloftspagina — wat leuk dat je een kijkje neemt!  
+Op deze site vind je alle informatie rondom onze grote dag.  
+We updaten de site regelmatig, dus kom gerust nog eens terug.
 
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+🎁 Bekijk ons [verlanglijstje](https://www.mijnverlanglijst.eu/v/0xydk4/bruiloft-wietze-en-charlotte)
