@@ -7,7 +7,7 @@ Op deze site vind je alle informatie rondom onze grote dag.
 We updaten de site regelmatig, dus kom gerust nog eens terug.
 
 ## Parkeren
-Parkeren kan bij Parkeerterrein Kerkstraat, gelieve niet parkeren bij de kerk zelf! Adres voor het parkeerterein is [Kerkstraat 60, 5104 EZ Dongen](https://maps.app.goo.gl/Kj5SpMmNk5Asgq447).
+Parkeren kan bij Parkeerterrein Kerkstraat, gelieve niet parkeren bij de kerk zelf! Adres voor het parkeerterein is <a href="https://maps.app.goo.gl/Kj5SpMmNk5Asgq447" target="_blank">Kerkstraat 60, 5104 EZ Dongen</a>.
 
 <img src="parkeerterrein_kerkstraat.png" alt="Parkeerterrein Kerkstraat" width="400"/>
 
@@ -24,7 +24,7 @@ Vergeet niet om je naam op het cadeautje te zetten, zodat we weten van wie we he
 - 18:00 - Eten bij 't Zusje Raamsdonksveer
 
 ## Diner bij 't Zusje
-Het adres is [Wilhelminalaan 22, 4941 GK Raamsdonksveer](https://maps.app.goo.gl/5FpfR91DdBZZUgSd9). Bij het restaurant is genoeg parkeergelegenheid. Wij werken met een voorschot, waarbij er ook een drankarrangement bij zit van 3 uur lang en de kosten zijn €68,80 per persoon.
+Het adres is <a href="https://maps.app.goo.gl/5FpfR91DdBZZUgSd9" target="_blank">Wilhelminalaan 22, 4941 GK Raamsdonksveer</a>. Bij het restaurant is genoeg parkeergelegenheid. Wij werken met een voorschot, waarbij er ook een drankarrangement bij zit van 3 uur lang en de kosten zijn €68,80 per persoon.
 
 Voorschot kun je hier betalen: <a href="https://bunq.me/huwelijkwc?amount=68.80&description=Bruiloft+Eten+Voorschot" target="_blank">https://bunq.me/huwelijkwc</a>
 
