@@ -12,7 +12,7 @@ Parkeren kan bij Parkeerterrein Kerkstraat, gelieve niet parkeren bij de kerk ze
 <img src="parkeerterrein_kerkstraat.png" alt="Parkeerterrein Kerkstraat" width="400"/>
 
 ## Verlanglijstje
-Wij zouden het erg leuk vinden als je mee komt eten bij 't Zusje als cadeau, maar mocht je ook nog iets willen geven kun je kijken voor ideeën op ons  [verlanglijstje](https://www.mijnverlanglijst.eu/v/0xydk4/bruiloft-wietze-en-charlotte).
+Wij zouden het erg leuk vinden als je mee komt eten bij 't Zusje als cadeau, maar mocht je ook nog iets willen geven kun je kijken voor ideeën op ons <a href="https://www.mijnverlanglijst.eu/v/0xydk4/bruiloft-wietze-en-charlotte" target="_blank">verlanglijstje</a>.
 
 Vergeet niet om je naam op het cadeautje te zetten, zodat we weten van wie we het gehad hebben.
 
