@@ -17,6 +17,7 @@ Wij zouden het erg leuk vinden als je mee komt eten bij 't Zusje als cadeau, maa
 Vergeet niet om je naam op het cadeautje te zetten, zodat we weten van wie we het gehad hebben.
 
 ## Planning
+De tijd op de uitnodiging is leidend. 12:30 voor de ceremonie en 14:00 voor het feest.
 - 12:30 - Ontvangst
 - 13:00 - Ceremonie
 - 14:00 - Taart, foto's en feest
